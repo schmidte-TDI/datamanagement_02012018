@@ -4,3 +4,4 @@ conversion functions needed:
 - Gallons to liters
 - Hours to minutes
 - Laundry
+- WTF
